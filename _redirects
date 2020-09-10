@@ -1,6 +1,6 @@
 /tether/tether-linux.tgz    https://github.com/koush/TetherResources/releases/latest/download/tether-linux.tgz
 /tether/tether-mac.zip    https://github.com/koush/TetherResources/releases/latest/download/tether-mac.zip
-/tether/TetherWindowsSetup.exe    https://github.com/koush/TetherResources/releases/latest/download/TetherWindowsSetup.exe
+/tether/TetherWindowsSetup.msi    https://github.com/koush/TetherResources/releases/latest/download/TetherWindowsSetup.msi
 
 /test/UniversalAdbDriverSetup.msi https://github.com/koush/adb.clockworkmod.com/releases/latest/download/UniversalAdbDriverSetup.msi
 
