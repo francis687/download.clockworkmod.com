@@ -4,3 +4,6 @@
 
 /test/UniversalAdbDriverSetup.msi https://github.com/koush/adb.clockworkmod.com/releases/latest/download/UniversalAdbDriverSetup.msi
 
+/carbon/CarbonSetup.msi https://github.com/koush/CarbonResources/releases/download/v1.0.0/CarbonSetup.msi
+/carbon/carbon-mac.zip https://github.com/koush/CarbonResources/releases/download/v1.0.0/carbon-mac.zip
+/carbon/carbon-linux.tgz https://github.com/koush/CarbonResources/releases/download/v1.0.0/carbon-linux.tgz
